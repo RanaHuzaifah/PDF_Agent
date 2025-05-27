@@ -1,0 +1,7 @@
+# ------------ requirements.txt ------------
+streamlit
+PyMuPDF
+langchain
+openai
+faiss-cpu
+tiktoken
