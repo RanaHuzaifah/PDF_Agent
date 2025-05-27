@@ -1,7 +1,6 @@
-# ------------ requirements.txt ------------
 streamlit
 PyMuPDF
-langchain
+langchain==0.1.14
 openai
 faiss-cpu
 tiktoken
